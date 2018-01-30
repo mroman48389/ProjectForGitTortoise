@@ -43,7 +43,7 @@ object Form1: TForm1
     Height = 60
     TabOrder = 1
     TabStop = False
-    Version = '1.2.0.0'
+    Version = '1.2.1.2'
     Controls = <>
     Font.Charset = DEFAULT_CHARSET
     Font.Color = clWindowText
@@ -53,5 +53,14 @@ object Form1: TForm1
     ImeName = ''
     ParentFont = False
     Text = ''
+  end
+  object Button2: TButton
+    Left = 24
+    Top = 192
+    Width = 75
+    Height = 25
+    Caption = 'Button1'
+    TabOrder = 2
+    OnClick = Button2Click
   end
 end
