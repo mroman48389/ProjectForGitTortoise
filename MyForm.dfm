@@ -20,6 +20,12 @@ object Form1: TForm1
     Width = 31
     Height = 13
     Caption = 'Label1'
+    Font.Charset = DEFAULT_CHARSET
+    Font.Color = clWindowText
+    Font.Height = -11
+    Font.Name = 'Tahoma'
+    Font.Style = []
+    ParentFont = False
   end
   object Button1: TButton
     Left = 24
@@ -29,5 +35,23 @@ object Form1: TForm1
     Caption = 'Button1'
     TabOrder = 0
     OnClick = Button1Click
+  end
+  object CurvyEdit1: TCurvyEdit
+    Left = 24
+    Top = 104
+    Width = 100
+    Height = 60
+    TabOrder = 1
+    TabStop = False
+    Version = '1.2.0.0'
+    Controls = <>
+    Font.Charset = DEFAULT_CHARSET
+    Font.Color = clWindowText
+    Font.Height = -40
+    Font.Name = 'Tahoma'
+    Font.Style = []
+    ImeName = ''
+    ParentFont = False
+    Text = ''
   end
 end
