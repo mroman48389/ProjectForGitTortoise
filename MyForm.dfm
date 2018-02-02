@@ -43,7 +43,7 @@ object Form1: TForm1
     Height = 60
     TabOrder = 1
     TabStop = False
-    Version = '1.2.1.2'
+    Version = '1.2.0.0'
     Controls = <>
     Font.Charset = DEFAULT_CHARSET
     Font.Color = clWindowText

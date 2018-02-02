@@ -30,6 +30,7 @@ implementation
 
 procedure TForm1.Button1Click(Sender: TObject);
 begin
+  (*Jared was here ! *)
   label1.caption := 'I just clicked a button.';
   inc(counter);
   curvyEdit1.Text := intToStr(counter);

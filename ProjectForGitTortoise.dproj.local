@@ -4,8 +4,8 @@
     <Transaction>2016/06/20 11:10:39.000.646,=C:\Users\mroman\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
     <Transaction>2017/11/14 15:42:39.000.401,=C:\Users\mroman\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
     <Transaction>2018/01/30 11:26:54.000.607,=C:\Users\mroman\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
-    <Transaction>2018/01/30 11:27:29.000.608,C:\Users\mroman\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Proj\Project For GitTortoise\MyForm.pas</Transaction>
-    <Transaction>2018/01/30 11:27:29.000.608,C:\Users\mroman\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Proj\Project For GitTortoise\MyForm.dfm</Transaction>
-    <Transaction>2018/01/30 11:27:51.000.936,C:\Users\mroman\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Proj\Project For GitTortoise\ProjectForGitTortoise.dproj</Transaction>
+    <Transaction>2018/01/30 11:27:29.000.608,C:\Proj\Project For GitTortoise\MyForm.pas=C:\Users\mroman\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2018/01/30 11:27:29.000.608,C:\Proj\Project For GitTortoise\MyForm.dfm=C:\Users\mroman\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2018/01/30 11:27:51.000.936,C:\Proj\Project For GitTortoise\ProjectForGitTortoise.dproj=C:\Users\mroman\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
   </Transactions>
 </BorlandProject>
